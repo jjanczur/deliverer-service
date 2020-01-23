@@ -19,6 +19,7 @@ build
 .env.test.local
 .env.production.local
 .env.production
+ganache.accounts
 
 # log files
 .log*
