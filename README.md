@@ -1,6 +1,6 @@
 # Login with MetaMask
 
-This repo was build based on [Amaury Martuny's repo](https://github.com/amaurymartiny/login-with-metamask-demo) and his tutorial on how to perform signature-based authentication.
+This repo was build based on [Amaury Martuny's tutorial](https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial) on how to perform signature-based authentication.
 
 <!-- [![Build Status](https://travis-ci.org/amaurymartiny/login-with-metamask-demo.svg?branch=master)](https://travis-ci.org/amaurymartiny/login-with-metamask-demo)
 [![David (backend)](<https://img.shields.io/david/amaurymartiny/login-with-metamask-demo.svg?label=deps%20(backend)&path=packages/backend>)](https://david-dm.org/amaurymartiny/login-with-metamask-demo?path=packages/backend)
@@ -8,9 +8,9 @@ This repo was build based on [Amaury Martuny's repo](https://github.com/amauryma
 [![](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/amaurymartiny) -->
 
 
-## Live Demo
+## Demo
 
-
+https://www.youtube.com/watch?v=B4-gsvnvECI
 
 ## Getting Started
 
